@@ -1,0 +1,32 @@
+DIMACS CVRP - PYOMO + GUROBI
+=======================================================
+Objective: 8517
+Runtime: 300.19 seconds
+Termination: maxTimeLimit
+Routes: 8
+Validation: PASSED
+
+Vehicle 1: 0 -> 13 -> 95 -> 97 -> 37 -> 98 -> 93 -> 59 -> 99 -> 96 -> 94 -> 0
+Load: 170/200 | Distance: 520 | Utilisation: 85.0%
+
+Vehicle 2: 0 -> 26 -> 12 -> 76 -> 50 -> 33 -> 81 -> 9 -> 51 -> 1 -> 0
+Load: 135/200 | Distance: 805 | Utilisation: 67.5%
+
+Vehicle 3: 0 -> 52 -> 88 -> 7 -> 82 -> 48 -> 19 -> 11 -> 62 -> 10 -> 31 -> 27 -> 0
+Load: 182/200 | Distance: 928 | Utilisation: 91.0%
+
+Vehicle 4: 0 -> 58 -> 2 -> 57 -> 87 -> 42 -> 43 -> 15 -> 41 -> 22 -> 75 -> 74 -> 72 -> 21 -> 40 -> 53 -> 0
+Load: 186/200 | Distance: 1040 | Utilisation: 93.0%
+
+Vehicle 5: 0 -> 69 -> 30 -> 20 -> 66 -> 65 -> 71 -> 35 -> 34 -> 78 -> 79 -> 3 -> 77 -> 28 -> 0
+Load: 187/200 | Distance: 1186 | Utilisation: 93.5%
+
+Vehicle 6: 0 -> 70 -> 32 -> 90 -> 63 -> 64 -> 49 -> 36 -> 47 -> 46 -> 8 -> 45 -> 17 -> 84 -> 5 -> 60 -> 83 -> 18 -> 0
+Load: 199/200 | Distance: 1611 | Utilisation: 99.5%
+
+Vehicle 7: 0 -> 80 -> 68 -> 29 -> 24 -> 54 -> 4 -> 55 -> 25 -> 39 -> 67 -> 23 -> 56 -> 73 -> 0
+Load: 199/200 | Distance: 1385 | Utilisation: 99.5%
+
+Vehicle 8: 0 -> 89 -> 6 -> 85 -> 61 -> 16 -> 86 -> 38 -> 14 -> 44 -> 91 -> 100 -> 92 -> 0
+Load: 200/200 | Distance: 1042 | Utilisation: 100.0%
+
